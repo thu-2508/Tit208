@@ -1,0 +1,6 @@
+{
+  "name": "SMART ENGLISH TUTOR - S/ES Pronunciation Sorting Challenge",
+  "description": "Smart English Tutor for Grades 6, 7, 8 and 9 - Interactive 3D pronunciation exercise for '-s/-es' endings (/s/, /ɪz/, /z/). Teacher: VŨ THỊ MAI THU.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
